@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    9.68k added, 2.85k removed
+                                    10.7k added, 2.98k removed
                                 </div>
                             </section>
                             <section>
@@ -488,15 +488,15 @@
                                     </g>
                                 </g>
                                 <g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
-                                    <g class="tick" opacity="1" transform="translate(0,20.425373134328353)">
+                                    <g class="tick" opacity="1" transform="translate(0,19.13636363636364)">
                                         <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">60</text>
                                     </g>
-                                    <g class="tick" opacity="1" transform="translate(0,48.78358208955225)">
+                                    <g class="tick" opacity="1" transform="translate(0,47.92424242424242)">
                                         <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">40</text>
                                     </g>
-                                    <g class="tick" opacity="1" transform="translate(0,77.14179104477611)">
+                                    <g class="tick" opacity="1" transform="translate(0,76.71212121212122)">
                                         <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">20</text>
                                     </g>
@@ -505,25 +505,25 @@
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                     </g>
                                 </g>
-                                <path transform="translate(10,10)" d="M10,51.119L41,62.463L72,70.97L103,69.552L134,85.149L165,105L196,10" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,10L165,105L134,85.149L103,69.552L72,70.97L41,62.463L10,51.119Z" fill="rgba(88, 166, 255, .1)"/>
+                                <path transform="translate(10,10)" d="M10,50.303L41,61.818L72,70.455L103,69.015L134,83.409L165,105L196,10" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,10L165,105L134,83.409L103,69.015L72,70.455L41,61.818L10,50.303Z" fill="rgba(88, 166, 255, .1)"/>
                                 <g>
-                                    <circle transform="translate(10,10)" cx="10" cy="51.11940298507463" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="41" cy="62.462686567164184" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="72" cy="70.97014925373136" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="103" cy="69.55223880597015" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="134" cy="85.14925373134328" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="10" cy="50.3030303030303" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="41" cy="61.81818181818181" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="72" cy="70.45454545454545" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="103" cy="69.01515151515152" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="134" cy="83.4090909090909" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="165" cy="105" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="196" cy="10" r="2" fill="#106cbc"/>
                                 </g>
                                 <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
-                                    <text transform="translate(10,6)" x="10" y="51.11940298507463" fill="rgba(127, 127, 127, .8)">38</text>
-                                    <text transform="translate(10,6)" x="41" y="62.462686567164184" fill="rgba(127, 127, 127, .8)">30</text>
-                                    <text transform="translate(10,6)" x="72" y="70.97014925373136" fill="rgba(127, 127, 127, .8)">24</text>
-                                    <text transform="translate(10,6)" x="103" y="69.55223880597015" fill="rgba(127, 127, 127, .8)">25</text>
-                                    <text transform="translate(10,6)" x="134" y="85.14925373134328" fill="rgba(127, 127, 127, .8)">14</text>
+                                    <text transform="translate(10,6)" x="10" y="50.3030303030303" fill="rgba(127, 127, 127, .8)">38</text>
+                                    <text transform="translate(10,6)" x="41" y="61.81818181818181" fill="rgba(127, 127, 127, .8)">30</text>
+                                    <text transform="translate(10,6)" x="72" y="70.45454545454545" fill="rgba(127, 127, 127, .8)">24</text>
+                                    <text transform="translate(10,6)" x="103" y="69.01515151515152" fill="rgba(127, 127, 127, .8)">25</text>
+                                    <text transform="translate(10,6)" x="134" y="83.4090909090909" fill="rgba(127, 127, 127, .8)">15</text>
                                     <text transform="translate(10,6)" x="165" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                    <text transform="translate(10,6)" x="196" y="10" fill="rgba(127, 127, 127, .8)">67</text>
+                                    <text transform="translate(10,6)" x="196" y="10" fill="rgba(127, 127, 127, .8)">66</text>
                                 </g>
                             </svg>
                         </div>
@@ -3006,7 +3006,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 7.03m out of 147m users</span>
+                                    <span class="gh">ranked 7.03m out of 148m users</span>
                                 </div>
                                 <div class="text">Published 10 public repositories</div>
                             </div>
@@ -3156,7 +3156,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.18m out of 147m users</span>
+                                    <span class="gh">ranked 2.18m out of 148m users</span>
                                 </div>
                                 <div class="text">Followed by 7 users</div>
                             </div>
@@ -3282,7 +3282,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Nov 2024, 04:19:11 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Nov 2024, 05:08:31 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
